@@ -1,0 +1,19 @@
+# Secretos — NUNCA subir a GitHub
+.streamlit/secrets.toml
+.env
+
+# Caché local de datos
+data/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
